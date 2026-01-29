@@ -86,7 +86,7 @@ I enjoy finding bugs, improving product quality, and learning new testing tools 
 
 ## 🔗 Contact
 - **GitHub:** https://github.com/your-username  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
+- **LinkedIn:** https://www.linkedin.com/in/arup-pal-chowdhury-682670190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
